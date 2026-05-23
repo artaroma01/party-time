@@ -1,0 +1,47 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<section class="content">
+
+<h1>Birthday Art Parties</h1>
+
+<div class="card">
+
+<h2>Basic Package</h2>
+
+<p>$275</p>
+
+<p>
+Up to 10 children
+</p>
+
+<p>
+Approx. 1 hour
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>Premium Package</h2>
+
+<p>$350</p>
+
+<p>
+Up to 10 children
+</p>
+
+<p>
+Approx. 1.5 hours
+</p>
+
+</div>
+
+</section>
+
+</body>
+</html>
